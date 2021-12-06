@@ -36,10 +36,11 @@ p {
 
 span {
 	font-size: 12px;
+    color: white;
 }
 
 a {
-	color: #333;
+	color: rgb(255, 255, 255);
 	font-size: 14px;
 	text-decoration: none;
 	margin: 15px 0;
@@ -228,27 +229,3 @@ input {
 	width: 40px;
 }
 
-footer {
-    background-color: #222;
-    color: #fff;
-    font-size: 14px;
-    bottom: 0;
-    position: fixed;
-    left: 0;
-    right: 0;
-    text-align: center;
-    z-index: 999;
-}
-
-footer p {
-    margin: 10px 0;
-}
-
-footer i {
-    color: red;
-}
-
-footer a {
-    color: #3c97bf;
-    text-decoration: none;
-}
