@@ -5,7 +5,7 @@
 }
 
 body {
-	background: #f6f5f7;
+	background: #b77ef0;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -45,9 +45,9 @@ a {
 
 button {
 	border-radius: 20px;
-	border: 1px solid #FF4B2B;
-	background-color: #FF4B2B;
-	color: #FFFFFF;
+	border: 1px solid #000000;
+	background-color: #000000;
+	color: #e5ff00;
 	font-size: 12px;
 	font-weight: bold;
 	padding: 12px 45px;
@@ -57,7 +57,7 @@ button {
 }
 
 button:active {
-	transform: scale(0.95);
+	transform: scale(0.9);
 }
 
 button:focus {
